@@ -502,8 +502,10 @@ Header
   text-transform: capitalize;
 }
 .home-section .home-text .btn-1 {
-  margin-top: 30px;
+  /* margin-top: 30px; */
+  margin: 30px 8px 8px 8px;
 }
+
 .home-section .home-img .img-box {
   max-width: 450px;
   display: block;
